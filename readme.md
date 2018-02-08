@@ -9,25 +9,25 @@ Gabriel Dias (www.illusionbr.com | gdiasb12@gmail.com)
 
 ## Passos
 
- 1.Baixar Projeto <br>
+ - Baixar Projeto <br>
 	`git clone git@github.com:gdiasb12/crud-produtos.git`
 
- 2.Instalar dependências usando composer
+ - Instalar dependências usando composer <br>
 	`composer install`
 
- 3.Gerar chave para o projeto
+ - Gerar chave para o projeto <br>
 	`php artisan key:generate`
 
- 4.Configurar conexão com banco de dados (.env)
-       `DB_CONNECTION=mysql
-	DB_HOST=ip_servidor
-	DB_PORT=porta_servidor
-	DB_DATABASE=nome_banco
-	DB_USERNAME=usuario
+ - Configurar conexão com banco de dados (.env) <br>
+       `DB_CONNECTION=mysql <br>
+	DB_HOST=ip_servidor <br>
+	DB_PORT=porta_servidor <br>
+	DB_DATABASE=nome_banco <br>
+	DB_USERNAME=usuario <br>
 	DB_PASSWORD=senha`
 
- 5.Rodar migrations
+ - Rodar migrations <br>
 	`php artisan migrate`
 
- 6.Iniciar servidor para o projeto
+ - Iniciar servidor para o projeto <br>
 	`php artisan Serve`	
