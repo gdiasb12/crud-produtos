@@ -19,12 +19,12 @@ Gabriel Dias (www.illusionbr.com | gdiasb12@gmail.com)
 	`php artisan key:generate`
 
  - Configurar conexão com banco de dados (.env) <br>
-       `DB_CONNECTION=mysql <br>
-	DB_HOST=ip_servidor <br>
-	DB_PORT=porta_servidor <br>
-	DB_DATABASE=nome_banco <br>
-	DB_USERNAME=usuario <br>
-	DB_PASSWORD=senha`
+        `DB_CONNECTION=mysql` <br>
+	`DB_HOST=ip_servidor` <br>
+	`DB_PORT=porta_servidor` <br>
+	`DB_DATABASE=nome_banco` <br>
+	`DB_USERNAME=usuario` <br>
+	`DB_PASSWORD=senha`
 
  - Rodar migrations <br>
 	`php artisan migrate`
