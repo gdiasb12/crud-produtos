@@ -10,10 +10,10 @@ Gabriel Dias (www.illusionbr.com | gdiasb12@gmail.com)
 ## Passos
 
  1.Baixar Projeto 
-	> git clone git@github.com:gdiasb12/crud-produtos.git
+	>git clone git@github.com:gdiasb12/crud-produtos.git
 
  2.Instalar dependências usando composer
-	> composer install
+	> com`p`oser install
 
  3.Gerar chave para o projeto
 	> php artisan key:generate
